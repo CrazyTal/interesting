@@ -1,0 +1,14 @@
+{
+	"name": "webchat",
+	"description": "A real-time chat web application",
+	"version": "1.0",
+	"main": "server.js",
+	"dependencies": {
+		"express": "4.15.2",
+		"socket.io": "1.7.4"
+	},
+	"engines": {
+		"node": "4.7.3",
+		"npm": "2.15.11"
+	}
+}
