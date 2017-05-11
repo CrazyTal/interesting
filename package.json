@@ -21,17 +21,5 @@
   "bugs": {
     "url": "https://github.com/CreazyTal/interesting/issues"
   },
-  "homepage": "https://github.com/CreazyTal/interesting#readme",
-	"name": "webchat",
-	"description": "A real-time chat web application",
-	"version": "1.0",
-	"main": "server.js",
-	"dependencies": {
-		"express": "4.15.x",
-		"socket.io": "1.7.x"
-	},
-	"engines": {
-		"node": "4.7.x",
-		"npm": "2.15.x"
-	}
+  "homepage": "https://github.com/CreazyTal/interesting#readme"
 }
