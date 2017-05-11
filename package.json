@@ -4,11 +4,11 @@
 	"version": "1.0",
 	"main": "server.js",
 	"dependencies": {
-		"express": "4.15.2",
-		"socket.io": "1.7.4"
+		"express": "4.15.x",
+		"socket.io": "1.7.x"
 	},
 	"engines": {
-		"node": "4.7.3",
-		"npm": "2.15.11"
+		"node": "4.7.x",
+		"npm": "2.15.x"
 	}
 }
