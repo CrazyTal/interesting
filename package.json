@@ -1,12 +1,25 @@
 {
-  "name": "webchat",
-  "version": "0.0.0",
-  "dependencies": {},
-  "devDependencies": {
-    "express": "^4.14.0",
-    "socket.io": "^1.4.8"
+  "name": "ltao-chat",
+  "version": "0.8.0",
+  "description": "webchat tool",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.4"
   },
-  "engines": {
-    "node": ">=0.10.0"
-  }
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreazyTal/interesting.git"
+  },
+  "author": "ltao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CreazyTal/interesting/issues"
+  },
+  "homepage": "https://github.com/CreazyTal/interesting#readme"
 }
