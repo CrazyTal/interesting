@@ -9,10 +9,10 @@ html, body {
     right: 0;
     bottom: 0;
     left: 0;
-    /*background-color: rgba(5, 5, 5, .6);*/
-    background: url('../images/img28.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
+    background-color: rgba(5, 5, 5, .6);
+/*     background: url('../images/img28.jpg'); */
+/*     background-position: center; */
+/*     background-repeat: no-repeat; */
     text-align: center;
     color: #339995;
     display: block;
