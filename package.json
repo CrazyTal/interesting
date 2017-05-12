@@ -1,25 +1,14 @@
 {
-  "name": "webchat",
-  "version": "0.8.0",
-  "description": "webchat tool",
-  "main": "server.js",
-  "dependencies": {
-    "express": "^4.15.2",
-    "socket.io": "^1.7.4"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CreazyTal/interesting.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CreazyTal/interesting/issues"
-  },
-  "homepage": "https://github.com/CreazyTal/interesting#readme"
+    "name": "webchat",
+    "description": "a realtime chat web application",
+    "version": "0.4.0",
+    "main": "server.js",
+    "dependencies": {
+        "express": "3.4.x",
+        "socket.io": "0.9.x"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.2.x"
+    }
 }
